@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811972030148",
+    "firebase_url": "https://nikahyuk-ccee5.firebaseio.com",
+    "project_id": "nikahyuk-ccee5",
+    "storage_bucket": "nikahyuk-ccee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811972030148:android:043f840814d75fdc0d6391",
+        "android_client_info": {
+          "package_name": "com.nikahyuk.weddingplaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811972030148-crv9l920ap6ilvr1fqh1t1v8nndpckq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikahyuk.weddingplaner",
+            "certificate_hash": "daeb61295fbdef32063c31bb64a5a29e92c32d83"
+          }
+        },
+        {
+          "client_id": "811972030148-o136pmr5nrffgche1mhmj6rfjioqnsfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2o6JFsF1WXWiG6YfoTSdeQXemBKa0C1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811972030148-o136pmr5nrffgche1mhmj6rfjioqnsfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
